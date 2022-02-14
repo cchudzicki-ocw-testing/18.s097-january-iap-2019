@@ -1,6 +1,8 @@
 ---
 content_type: page
+learning_resource_types: []
 title: Lecture Videos and Readings
+type: CourseSection
 uid: 304944d6-7ebc-5f0f-a30c-fd3fd9fb4dde
 ---
 

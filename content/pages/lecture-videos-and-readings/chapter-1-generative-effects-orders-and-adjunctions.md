@@ -1,8 +1,11 @@
 ---
 content_type: page
+learning_resource_types: []
 parent_title: Lecture Videos and Readings
+parent_type: CourseSection
 parent_uid: 304944d6-7ebc-5f0f-a30c-fd3fd9fb4dde
 title: 'Chapter 1: Generative Effects: Orders and Adjunctions'
+type: CourseSection
 uid: b6d27364-52fb-f6e9-8330-e576e21fa70a
 ---
 

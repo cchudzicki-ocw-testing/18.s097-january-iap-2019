@@ -1,8 +1,11 @@
 ---
 content_type: page
+learning_resource_types: []
 parent_title: Lecture Videos and Readings
+parent_type: CourseSection
 parent_uid: 304944d6-7ebc-5f0f-a30c-fd3fd9fb4dde
 title: 'Chapter 5: Signal Flow Graphs: Props, Presentations, and Proofs'
+type: CourseSection
 uid: ece25e43-f9ff-d4c9-08d8-f6bd47c7c80a
 ---
 

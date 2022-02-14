@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: 'Chapter 6: Circuits: Hypergraph Categories and Operads'
+parent_type: CourseSection
 resourcetype: Image
 title: ses11.jpg
+type: OCWImage
 uid: c399cdef-9437-4c34-e121-050d23ba037d
 ---

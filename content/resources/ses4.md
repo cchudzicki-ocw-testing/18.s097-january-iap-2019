@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: 'Chapter 2: Resources: Monoidal Preorders and Enrichment'
+parent_type: CourseSection
 resourcetype: Image
 title: ses4.jpg
+type: OCWImage
 uid: 12c7fbf0-ea94-c1a4-ea0c-f81cc4c4deb5
 ---

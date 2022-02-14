@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: 'Chapter 7: Logic of Behavior: Sheaves, Toposes, Languages'
+parent_type: CourseSection
 resourcetype: Image
 title: ses14.jpg
+type: OCWImage
 uid: e8bd272b-6fd6-be21-d799-6ee0ae3117ab
 ---

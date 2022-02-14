@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: 'Chapter 4: Co-design: Profunctors and Monoidal Categories'
+parent_type: CourseSection
 resourcetype: Image
 title: ses8.jpg
+type: OCWImage
 uid: 15c8a188-3310-9cbf-0e5d-b452f471b52c
 ---

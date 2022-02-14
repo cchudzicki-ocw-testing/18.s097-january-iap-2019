@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: 'Chapter 5: Signal Flow Graphs: Props, Presentations, and Proofs'
+parent_type: CourseSection
 resourcetype: Image
 title: ses9.jpg
+type: OCWImage
 uid: 006b8844-5480-060d-4157-099ac03bfe5a
 ---
