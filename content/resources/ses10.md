@@ -12,6 +12,5 @@ parent_title: 'Chapter 5: Signal Flow Graphs: Props, Presentations, and Proofs'
 parent_type: CourseSection
 resourcetype: Image
 title: ses10.jpg
-type: OCWImage
 uid: 3fabd32a-56f7-5f36-f763-8fd533beaa81
 ---

@@ -12,6 +12,5 @@ parent_title: 'Chapter 3: Databases: Categories, Functors, and (Co)Limits'
 parent_type: CourseSection
 resourcetype: Image
 title: ses5.jpg
-type: OCWImage
 uid: 76c8e2a3-05c9-5956-7efe-35af46cb8ff5
 ---

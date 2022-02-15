@@ -12,6 +12,5 @@ parent_title: 'Chapter 6: Circuits: Hypergraph Categories and Operads'
 parent_type: CourseSection
 resourcetype: Image
 title: ses12.jpg
-type: OCWImage
 uid: 983b3b1a-abec-545b-ef7e-fca7f2fe66f3
 ---

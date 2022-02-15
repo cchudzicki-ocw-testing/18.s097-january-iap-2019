@@ -12,6 +12,5 @@ parent_title: 'Chapter 2: Resources: Monoidal Preorders and Enrichment'
 parent_type: CourseSection
 resourcetype: Image
 title: ses3.jpg
-type: OCWImage
 uid: e4f98d35-14ff-73e8-8b55-d6f45dd851b9
 ---

@@ -12,6 +12,5 @@ parent_title: 'Chapter 1: Generative Effects: Orders and Adjunctions'
 parent_type: CourseSection
 resourcetype: Image
 title: ses1_new.jpg
-type: OCWImage
 uid: a0b31194-4a2d-2e36-fe42-9e34900b6919
 ---

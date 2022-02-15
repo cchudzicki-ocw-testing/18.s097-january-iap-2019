@@ -8,6 +8,5 @@ parent_title: Lecture Videos and Readings
 parent_type: CourseSection
 resourcetype: Document
 title: '18.S097 Applied Category Theory: Textbook'
-type: OCWFile
 uid: a4175d61-479a-3534-0d63-07ae5e48ef5a
 ---

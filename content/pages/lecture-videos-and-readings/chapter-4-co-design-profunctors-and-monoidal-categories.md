@@ -5,7 +5,6 @@ parent_title: Lecture Videos and Readings
 parent_type: CourseSection
 parent_uid: 304944d6-7ebc-5f0f-a30c-fd3fd9fb4dde
 title: 'Chapter 4: Co-design: Profunctors and Monoidal Categories'
-type: CourseSection
 uid: ffa547eb-d3d1-1471-23d0-4bdd3a2744d2
 ---
 
