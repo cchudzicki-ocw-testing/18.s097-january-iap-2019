@@ -1,6 +1,7 @@
 ---
 content_type: page
 learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Lecture Videos and Readings
 parent_type: CourseSection
 parent_uid: 304944d6-7ebc-5f0f-a30c-fd3fd9fb4dde

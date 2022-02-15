@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+ocw_type: OCWImage
 parent_title: 'Chapter 3: Databases: Categories, Functors, and (Co)Limits'
 parent_type: CourseSection
 resourcetype: Image
