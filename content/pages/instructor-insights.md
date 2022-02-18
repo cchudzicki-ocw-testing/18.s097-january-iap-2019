@@ -77,7 +77,7 @@ The students' grades were based on the following activities:
 Student Information
 -------------------
 
-![35 students took this course when it was taught in IAP 2019.]({{< resource_file 009ade11-96c7-b1ba-af8f-60965bbcc2a5 >}})
+{{< resource 009ade11-96c7-b1ba-af8f-60965bbcc2a5 >}}
 
 ### Breakdown by Year
 
