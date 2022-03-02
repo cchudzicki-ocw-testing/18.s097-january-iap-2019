@@ -9,7 +9,7 @@ title: 'Chapter 5: Signal Flow Graphs: Props, Presentations, and Proofs'
 uid: ece25e43-f9ff-d4c9-08d8-f6bd47c7c80a
 ---
 
-« {{< resource_link ffa547eb-d3d1-1471-23d0-4bdd3a2744d2 "Previous" >}} | {{< resource_link f4557088-53f4-aeba-64ea-3468ad171973 "Next" >}} » 
+« {{% resource_link ffa547eb-d3d1-1471-23d0-4bdd3a2744d2 "Previous" %}} | {{% resource_link f4557088-53f4-aeba-64ea-3468ad171973 "Next" %}} » 
 
 Lecture Videos
 --------------
@@ -58,9 +58,9 @@ by Dr. Brendan Fong
 Readings
 --------
 
-Internal links in the chapter file below are non-functional. For working links, open the file for the full textbook: ![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link a4175d61-479a-3534-0d63-07ae5e48ef5a "_An Invitation to Applied Category Theory: Seven Sketches in Compositionality_ (PDF - 2.6MB)" >}}.
+Internal links in the chapter file below are non-functional. For working links, open the file for the full textbook: ![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link a4175d61-479a-3534-0d63-07ae5e48ef5a "_An Invitation to Applied Category Theory: Seven Sketches in Compositionality_ (PDF - 2.6MB)" %}}.
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link 6f5f362d-7f21-03cc-8f9f-8145d0c7bb9d "Chapter 5: Signal Flow Graphs: Props, Presentations, and Proofs (PDF)" >}}
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 6f5f362d-7f21-03cc-8f9f-8145d0c7bb9d "Chapter 5: Signal Flow Graphs: Props, Presentations, and Proofs (PDF)" %}}
 
 5.1 Comparing systems as interacting signal processors
 
@@ -101,6 +101,6 @@ Internal links in the chapter file below are non-functional. For working links, 
 Assignment
 ----------
 
-{{< resource_link 54e44891-f831-3ee9-3cee-e87944b0b677 "Problem set 3 (PDF)" >}} due at the beginning of Session 14.
+{{% resource_link 54e44891-f831-3ee9-3cee-e87944b0b677 "Problem set 3 (PDF)" %}} due at the beginning of Session 14.
 
-« {{< resource_link ffa547eb-d3d1-1471-23d0-4bdd3a2744d2 "Previous" >}} | {{< resource_link f4557088-53f4-aeba-64ea-3468ad171973 "Next" >}} »
+« {{% resource_link ffa547eb-d3d1-1471-23d0-4bdd3a2744d2 "Previous" %}} | {{% resource_link f4557088-53f4-aeba-64ea-3468ad171973 "Next" %}} »

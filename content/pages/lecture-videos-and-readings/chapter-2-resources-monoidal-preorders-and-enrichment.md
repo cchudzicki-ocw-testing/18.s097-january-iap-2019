@@ -9,7 +9,7 @@ title: 'Chapter 2: Resources: Monoidal Preorders and Enrichment'
 uid: 1e6c6483-8234-095e-05a6-07b7332ef4a0
 ---
 
-« {{< resource_link b6d27364-52fb-f6e9-8330-e576e21fa70a "Previous" >}} | {{< resource_link 1c507f98-6ad7-62ae-d8c3-737d2c80a44c "Next" >}} » 
+« {{% resource_link b6d27364-52fb-f6e9-8330-e576e21fa70a "Previous" %}} | {{% resource_link 1c507f98-6ad7-62ae-d8c3-737d2c80a44c "Next" %}} » 
 
 Lecture Videos
 --------------
@@ -58,9 +58,9 @@ by Dr. Brendan Fong
 Readings
 --------
 
-Internal links in the chapter file below are non-functional. For working links, open the file for the full textbook: ![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link a4175d61-479a-3534-0d63-07ae5e48ef5a "_An Invitation to Applied Category Theory: Seven Sketches in Compositionality_ (PDF - 2.6MB)" >}}.
+Internal links in the chapter file below are non-functional. For working links, open the file for the full textbook: ![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link a4175d61-479a-3534-0d63-07ae5e48ef5a "_An Invitation to Applied Category Theory: Seven Sketches in Compositionality_ (PDF - 2.6MB)" %}}.
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link 774c718f-f02c-6f49-e186-2440571ea78d "Chapter 2: Resources: Monoidal Preorders and Enrichment (PDF)" >}}
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 774c718f-f02c-6f49-e186-2440571ea78d "Chapter 2: Resources: Monoidal Preorders and Enrichment (PDF)" %}}
 
 2.1 Getting from \\(a\\) to \\(b\\)
 
@@ -104,4 +104,4 @@ Internal links in the chapter file below are non-functional. For working links, 
 
 2.6 Summary and further reading
 
-« {{< resource_link b6d27364-52fb-f6e9-8330-e576e21fa70a "Previous" >}} | {{< resource_link 1c507f98-6ad7-62ae-d8c3-737d2c80a44c "Next" >}} »
+« {{% resource_link b6d27364-52fb-f6e9-8330-e576e21fa70a "Previous" %}} | {{% resource_link 1c507f98-6ad7-62ae-d8c3-737d2c80a44c "Next" %}} »

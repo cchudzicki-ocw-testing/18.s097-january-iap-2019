@@ -9,7 +9,7 @@ title: 'Chapter 7: Logic of Behavior: Sheaves, Toposes, Languages'
 uid: 1c3eb217-3942-01a7-1b3e-722b1297579a
 ---
 
-« {{< resource_link f4557088-53f4-aeba-64ea-3468ad171973 "Previous" >}} | {{< resource_link 557567ee-c6f8-f754-667c-49b74c81e23a "Next" >}} » 
+« {{% resource_link f4557088-53f4-aeba-64ea-3468ad171973 "Previous" %}} | {{% resource_link 557567ee-c6f8-f754-667c-49b74c81e23a "Next" %}} » 
 
 Lecture Videos
 --------------
@@ -58,9 +58,9 @@ by Dr. Brendan Fong
 Readings
 --------
 
-Internal links in the chapter file below are non-functional. For working links, open the file for the full textbook: ![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link a4175d61-479a-3534-0d63-07ae5e48ef5a "_An Invitation to Applied Category Theory: Seven Sketches in Compositionality_ (PDF - 2.6MB)" >}}.
+Internal links in the chapter file below are non-functional. For working links, open the file for the full textbook: ![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link a4175d61-479a-3534-0d63-07ae5e48ef5a "_An Invitation to Applied Category Theory: Seven Sketches in Compositionality_ (PDF - 2.6MB)" %}}.
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link 03fd10e5-957c-6e5c-879b-5b46aebee333 "Chapter 7: Logic of Behavior: Sheaves, Toposes, Languages (PDF)" >}}
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 03fd10e5-957c-6e5c-879b-5b46aebee333 "Chapter 7: Logic of Behavior: Sheaves, Toposes, Languages (PDF)" %}}
 
 7.1 How can we prove our machine is safe?
 
@@ -104,4 +104,4 @@ Internal links in the chapter file below are non-functional. For working links, 
 
 7.6 Summary and further reading
 
-« {{< resource_link f4557088-53f4-aeba-64ea-3468ad171973 "Previous" >}} | {{< resource_link 557567ee-c6f8-f754-667c-49b74c81e23a "Next" >}} »
+« {{% resource_link f4557088-53f4-aeba-64ea-3468ad171973 "Previous" %}} | {{% resource_link 557567ee-c6f8-f754-667c-49b74c81e23a "Next" %}} »

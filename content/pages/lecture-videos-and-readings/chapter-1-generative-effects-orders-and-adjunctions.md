@@ -9,7 +9,7 @@ title: 'Chapter 1: Generative Effects: Orders and Adjunctions'
 uid: b6d27364-52fb-f6e9-8330-e576e21fa70a
 ---
 
-« {{< resource_link 304944d6-7ebc-5f0f-a30c-fd3fd9fb4dde "Previous" >}} | {{< resource_link 1e6c6483-8234-095e-05a6-07b7332ef4a0 "Next" >}} » 
+« {{% resource_link 304944d6-7ebc-5f0f-a30c-fd3fd9fb4dde "Previous" %}} | {{% resource_link 1e6c6483-8234-095e-05a6-07b7332ef4a0 "Next" %}} » 
 
 Lecture Videos
 --------------
@@ -58,9 +58,9 @@ by Dr. Brendan Fong
 Readings
 --------
 
-Internal links in the chapter file below are non-functional. For working links, open the file for the full textbook: ![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link a4175d61-479a-3534-0d63-07ae5e48ef5a "_An Invitation to Applied Category Theory: Seven Sketches in Compositionality_ (PDF - 2.6MB)" >}}.
+Internal links in the chapter file below are non-functional. For working links, open the file for the full textbook: ![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link a4175d61-479a-3534-0d63-07ae5e48ef5a "_An Invitation to Applied Category Theory: Seven Sketches in Compositionality_ (PDF - 2.6MB)" %}}.
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link e37d7c67-c4bc-cfc9-dc27-4b8284c07aad "Chapter 1: Generative Effects: Orders and Adjunctions (PDF)" >}}
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link e37d7c67-c4bc-cfc9-dc27-4b8284c07aad "Chapter 1: Generative Effects: Orders and Adjunctions (PDF)" %}}
 
 1.1 More than the sum of their parts
 
@@ -99,6 +99,6 @@ Internal links in the chapter file below are non-functional. For working links, 
 Assignment
 ----------
 
-{{< resource_link 876f9108-793b-984f-f3a0-c6f38d50b1a1 "Problem set 1 (PDF)" >}} due at the beginning of Session 6.
+{{% resource_link 876f9108-793b-984f-f3a0-c6f38d50b1a1 "Problem set 1 (PDF)" %}} due at the beginning of Session 6.
 
-« {{< resource_link 304944d6-7ebc-5f0f-a30c-fd3fd9fb4dde "Previous" >}} | {{< resource_link 1e6c6483-8234-095e-05a6-07b7332ef4a0 "Next" >}} »
+« {{% resource_link 304944d6-7ebc-5f0f-a30c-fd3fd9fb4dde "Previous" %}} | {{% resource_link 1e6c6483-8234-095e-05a6-07b7332ef4a0 "Next" %}} »

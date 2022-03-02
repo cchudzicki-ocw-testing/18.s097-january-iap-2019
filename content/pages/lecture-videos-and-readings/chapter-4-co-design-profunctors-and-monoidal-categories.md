@@ -9,7 +9,7 @@ title: 'Chapter 4: Co-design: Profunctors and Monoidal Categories'
 uid: ffa547eb-d3d1-1471-23d0-4bdd3a2744d2
 ---
 
-« {{< resource_link 1c507f98-6ad7-62ae-d8c3-737d2c80a44c "Previous" >}} | {{< resource_link ece25e43-f9ff-d4c9-08d8-f6bd47c7c80a "Next" >}} » 
+« {{% resource_link 1c507f98-6ad7-62ae-d8c3-737d2c80a44c "Previous" %}} | {{% resource_link ece25e43-f9ff-d4c9-08d8-f6bd47c7c80a "Next" %}} » 
 
 Lecture Videos
 --------------
@@ -58,9 +58,9 @@ by Dr. Brendan Fong
 Readings
 --------
 
-Internal links in the chapter file below are non-functional. For working links, open the file for the full textbook: ![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link a4175d61-479a-3534-0d63-07ae5e48ef5a "_An Invitation to Applied Category Theory: Seven Sketches in Compositionality_ (PDF - 2.6MB)" >}}.
+Internal links in the chapter file below are non-functional. For working links, open the file for the full textbook: ![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link a4175d61-479a-3534-0d63-07ae5e48ef5a "_An Invitation to Applied Category Theory: Seven Sketches in Compositionality_ (PDF - 2.6MB)" %}}.
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link 4452e286-ad8e-0216-60ea-2762015536af "Chapter 4: Co-design: Profunctors and Monoidal Categories (PDF)" >}}
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 4452e286-ad8e-0216-60ea-2762015536af "Chapter 4: Co-design: Profunctors and Monoidal Categories (PDF)" %}}
 
 4.1 Can we build it?
 
@@ -98,4 +98,4 @@ Internal links in the chapter file below are non-functional. For working links, 
 
 4.6 Summary and further reading
 
-« {{< resource_link 1c507f98-6ad7-62ae-d8c3-737d2c80a44c "Previous" >}} | {{< resource_link ece25e43-f9ff-d4c9-08d8-f6bd47c7c80a "Next" >}} »
+« {{% resource_link 1c507f98-6ad7-62ae-d8c3-737d2c80a44c "Previous" %}} | {{% resource_link ece25e43-f9ff-d4c9-08d8-f6bd47c7c80a "Next" %}} »
