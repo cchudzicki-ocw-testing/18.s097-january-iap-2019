@@ -59,12 +59,8 @@ Most years during IAP
 
 The students' grades were based on the following activities:
 
-{{< tableopen >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
-
 - 75% Problem sets
 - 25% Class participation
-
-{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
 ## Student Information
 
