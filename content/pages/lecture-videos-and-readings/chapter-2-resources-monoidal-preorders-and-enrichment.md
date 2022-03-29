@@ -58,9 +58,9 @@ by Dr. Brendan Fong
 Readings
 --------
 
-Internal links in the chapter file below are non-functional. For working links, open the file for the full textbook: ![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link a4175d61-479a-3534-0d63-07ae5e48ef5a "_An Invitation to Applied Category Theory: Seven Sketches in Compositionality_ (PDF - 2.6MB)" %}}.
+Internal links in the chapter file below are non-functional. For working links, open the file for the full textbook: {{% resource_link a4175d61-479a-3534-0d63-07ae5e48ef5a "_An Invitation to Applied Category Theory: Seven Sketches in Compositionality_ (PDF - 2.6MB)" %}}.
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 774c718f-f02c-6f49-e186-2440571ea78d "Chapter 2: Resources: Monoidal Preorders and Enrichment (PDF)" %}}
+{{% resource_link 774c718f-f02c-6f49-e186-2440571ea78d "Chapter 2: Resources: Monoidal Preorders and Enrichment (PDF)" %}}
 
 2.1 Getting from \\(a\\) to \\(b\\)
 

@@ -58,9 +58,9 @@ by Dr. Brendan Fong
 Readings
 --------
 
-Internal links in the chapter file below are non-functional. For working links, open the file for the full textbook: ![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link a4175d61-479a-3534-0d63-07ae5e48ef5a "_An Invitation to Applied Category Theory: Seven Sketches in Compositionality_ (PDF - 2.6MB)" %}}.
+Internal links in the chapter file below are non-functional. For working links, open the file for the full textbook: {{% resource_link a4175d61-479a-3534-0d63-07ae5e48ef5a "_An Invitation to Applied Category Theory: Seven Sketches in Compositionality_ (PDF - 2.6MB)" %}}.
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 63f5a5f9-dcb8-3726-2563-88ea83f91396 "Chapter 6: Circuits: Hypergraph Categories and Operads (PDF)" %}}
+{{% resource_link 63f5a5f9-dcb8-3726-2563-88ea83f91396 "Chapter 6: Circuits: Hypergraph Categories and Operads (PDF)" %}}
 
 6.1 The ubiquity of network languages
 
