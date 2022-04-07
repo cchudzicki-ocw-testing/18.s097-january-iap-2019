@@ -17,7 +17,7 @@ Lecture Videos
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-[{{< resource ef509676-403e-b022-bacf-b93d6ca388d6 >}}](https://www.youtube.com/watch?v=Qp6b-XbPog0&list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5&index=13)
+{{< resource uuid="ef509676-403e-b022-bacf-b93d6ca388d6" href="https://www.youtube.com/watch?v=Qp6b-XbPog0&list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5&index=13" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -37,7 +37,7 @@ by Dr. David I. Spivak
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-[{{< resource e8bd272b-6fd6-be21-d799-6ee0ae3117ab >}}](https://www.youtube.com/watch?v=wF-khda2i4c&list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5&index=14)
+{{< resource uuid="e8bd272b-6fd6-be21-d799-6ee0ae3117ab" href="https://www.youtube.com/watch?v=wF-khda2i4c&list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5&index=14" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
