@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section includes videos, notes, and homework for sessions 1 and
+  2.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Lecture Videos and Readings

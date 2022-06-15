@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This is the landing page of the section of lecture videos and readings.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Lecture Videos and Readings
