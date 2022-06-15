@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: In this section, Dr. David Spivak describes various aspects of how he
+  teaches 18.S097 Applied Category Theory.
 draft: false
 layout: instructor_insights
 learning_resource_types: []
